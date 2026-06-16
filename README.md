@@ -77,5 +77,4 @@ The analysis reveals that Bengaluru's restaurant market is primarily driven by q
 
 ## Author
 
-Lakshya
-Aspiring Data Scientist
+Lakshya | Aspiring Data Scientist
