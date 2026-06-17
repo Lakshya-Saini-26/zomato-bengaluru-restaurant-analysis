@@ -69,7 +69,7 @@ The dataset contains information about restaurants listed on Zomato, including:
 
 ---
 
-## Conclusion
+## Conclusion   
 
 The analysis reveals that Bengaluru's restaurant market is primarily driven by quick-service and casual dining establishments. While premium restaurants exist in specific locations, affordable dining options are available throughout the city. Features such as online ordering and table booking influence restaurant operations differently, while customer ratings remain generally positive across the platform.
 
